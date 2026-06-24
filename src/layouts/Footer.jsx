@@ -60,7 +60,7 @@ export function Footer() {
                 <MapPin className="w-5 h-5 mr-3 text-medical-blue shrink-0 mt-0.5" />
                 <span className="text-sm text-slate-400">
                   Jijau Medical And General Store,<br />
-                  <a href="https://maps.app.goo.gl/7VARwTvqpk7CZfoZ7" target="_blank" rel="noreferrer" className="text-medical-green hover:underline mt-2 inline-block font-medium">
+                  <a href="https://maps.app.goo.gl/HnAJenTfLoDABkf6A" target="_blank" rel="noreferrer" className="text-medical-green hover:underline mt-2 inline-block font-medium">
                     Get Directions on Map →
                   </a>
                 </span>

@@ -39,7 +39,7 @@ export function Hero() {
                 WhatsApp
               </a>
               <a 
-                href="https://maps.app.goo.gl/7VARwTvqpk7CZfoZ7"
+                href="https://maps.app.goo.gl/HnAJenTfLoDABkf6A"
                 target="_blank"
                 rel="noreferrer"
                 className="w-full sm:w-auto bg-white text-medical-darkBlue border border-gray-200 px-8 py-3.5 rounded-lg font-semibold hover:border-medical-blue hover:text-medical-blue transition-colors flex items-center justify-center shadow-sm"

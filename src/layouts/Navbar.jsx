@@ -67,7 +67,7 @@ export function Navbar() {
               +91 9623303616
             </a>
             <a 
-              href="https://maps.app.goo.gl/7VARwTvqpk7CZfoZ7" 
+              href="https://maps.app.goo.gl/HnAJenTfLoDABkf6A" 
               target="_blank" 
               rel="noreferrer"
               className="bg-medical-blue text-white px-5 py-2.5 rounded-lg font-medium hover:bg-medical-darkBlue transition-colors flex items-center shadow-sm"
@@ -114,7 +114,7 @@ export function Navbar() {
               +91 9623303616
             </a>
             <a 
-              href="https://maps.app.goo.gl/7VARwTvqpk7CZfoZ7" 
+              href="https://maps.app.goo.gl/HnAJenTfLoDABkf6A" 
               target="_blank" 
               rel="noreferrer"
               className="bg-medical-blue text-white px-5 py-3 rounded-lg font-medium text-center flex justify-center items-center"
